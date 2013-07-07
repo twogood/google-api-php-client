@@ -3,9 +3,14 @@
     "type": "library",
     "description": "Google API library for PHP",
     "keywords": ["google","gdata"],
-    "homepage": "https://github.com/evert/google-api-php-client",
+    "homepage": "https://github.com/twogood/google-api-php-client",
     "license": "Apache 2.0",
     "authors": [
+        {
+            "name": "David Eriksson",
+            "email": "david.eriksson@divideandconquer.se",
+            "homepage": "http://www.divideandconquer.se/"
+        },
         {
             "name": "Evert Pot",
             "email": "evert@rooftopsolutions.nl",
